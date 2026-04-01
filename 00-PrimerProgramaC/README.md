@@ -1,0 +1,2 @@
+Resolución TP0 - Sintaxis y Semántica de los Lenguajes
+En esta sección se encuentra la resolución del Trabajo Práctico 0, que consiste en la configuración del entorno de desarrollo y la creación de un programa básico en lenguaje C (Hola Mundo) para verificar el funcionamiento del compilador gcc.
